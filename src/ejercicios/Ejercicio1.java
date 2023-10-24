@@ -11,7 +11,6 @@ public class Ejercicio1 {
 			return new EnteroCadena(a,s);
 		}
 	}
-	
 	public static String ejercicio1_Iterativo (Integer varA, Integer varB) {
 		
 		List<String> ac = new ArrayList<String>();
@@ -46,8 +45,5 @@ public class Ejercicio1 {
 			
 		}
 		return r;
-		
 	}
-	
-
 }
