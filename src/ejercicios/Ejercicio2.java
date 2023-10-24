@@ -39,7 +39,7 @@ public class Ejercicio2 {
 		return ac;
 	}
 	
-	public static List<Integer> ejercicio2RevursivoFinal(Integer a, Integer b){
+	public static List<Integer> ejercicio2RecursivoFinal(Integer a, Integer b){
 		LinkedList<Integer> ac = new LinkedList<Integer>();
 		return RecursionFinal(ac, a, b);
 	}

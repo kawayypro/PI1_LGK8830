@@ -26,7 +26,7 @@ public class Ejercicio1 {
 			elem = EnteroCadena.of(nuevoa, nuevos);
 			
 		}
-		return String.join("-", ac);		
+		return String.join("-", ac);
 	}
 	
 	public static String ejercicio1_RecursivoFinal(Integer varA, Integer varB) {
